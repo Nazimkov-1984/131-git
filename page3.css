@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+section {
+    min-height: 100vh;
+}
+.red{
+background-color: red;
+}
+.green{
+background-color: green;
+}
+.yellow{
+background-color: yellow;
+}
+
+menu ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
